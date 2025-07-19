@@ -5,7 +5,7 @@
 - If you have any ideas for stuff I can do, feel free to reach out!
   - You can message me here (if you can, kinda new to github lol), or @Expely on discord, my dms are open
   - You can also dm me on Twitter/X as @Expely, just I'm not very active there
-- I mainly use Python, Google Sheets and JS, but I know a little bit of Java and Skript
+- I mainly use Python, Google Sheets, JS and Kotlin, but I know a little bit of Java and Skript
 - Pronouns: idm, all are fine
 
 Stuff I've worked on:
